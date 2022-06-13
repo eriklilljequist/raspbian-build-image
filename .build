@@ -1,1 +1,1 @@
-docker build -t rasbian-build-image:latest .
+docker build -t lambda-arm-builder:latest .
